@@ -28,4 +28,4 @@ This project is a chat application that includes both a frontend and a backend. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yo/your-repo.git
+  gh repo clone shivanshu351/Chat_Application
