@@ -12,13 +12,13 @@ This project is a chat application that includes both a frontend and a backend. 
 
 ### Login Page
 
-![Login Page](assets/login-page.png)
+![Login Page](assets/Login.png)
 
 *Description: The login page where users can enter their username to get started.*
 
 ### Chat Interface
 
-![Chat Interface](assets/chat-interface.png)
+![Chat Interface](assets/ChatInterface.png)
 
 *Description: The main chat interface where users can send and receive messages in real-time.*
 
@@ -28,4 +28,4 @@ This project is a chat application that includes both a frontend and a backend. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/yo/your-repo.git
